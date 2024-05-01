@@ -36,6 +36,7 @@
     "Python.main.executor": "Run",
     "Python.practice_dict.executor": "Run",
     "Python.practice_dynamic.executor": "Run",
+    "Python.practice_flow.executor": "Run",
     "Python.practice_organization.executor": "Run",
     "Python.practice_tuple.executor": "Run",
     "Python.practice_vars.executor": "Run",
