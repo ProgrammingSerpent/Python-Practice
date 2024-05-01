@@ -31,16 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_dynamic.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_organization.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice_vars.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.practice_dict.executor": "Run",
+    "Python.practice_dynamic.executor": "Run",
+    "Python.practice_organization.executor": "Run",
+    "Python.practice_tuple.executor": "Run",
+    "Python.practice_vars.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="practice_organization" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="lessons" />
